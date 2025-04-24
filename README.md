@@ -19,4 +19,8 @@ python3 ball_bounce.py
 
 ## *Author Name*
 <!--Remove the below lines and add yours -->
+<<<<<<< HEAD
 Ayush Shaw
+=======
+M Ahmed Afzal
+>>>>>>> 4771b65dd49e0d4448fe73ae7a36af26694d6cec
